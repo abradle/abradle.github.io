@@ -2,14 +2,14 @@
 main:
 
   - title: "Home"
-    url: /
+    url: 
 
   - title: "Who am I?"
-    url: /cv/
+    url: cv/
 
   - title: "Who we are?"
-    url: /people/
+    url: people/
     
   - title: "What we do?"
-    url: /portfolio/
+    url: portfolio/
 
