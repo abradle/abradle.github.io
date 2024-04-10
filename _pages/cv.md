@@ -11,25 +11,24 @@ redirect_from:
 
 Education
 ======
-* DPhil in Biomedical Science, University of Oxford, 201
+* DPhil in Biomedical Science, University of Oxford, 2015
 * MChem in Chemistry, University of Oxford, 2010
 
 Work experience
 ======
 * 2018-2024: Exscientia
   * VP Design Development
-  * Duties includes: Updates and improvements to template
-*  
-* : Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016-2018: University of Oxford and Diamond Light Source
+  * Group Leader
+* 2015-2016: University of California San Diego
+  * Postdoctoral Researcher
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+Acadmeic Grants and Awards
+======
+* £600 K EPSRC Innovation Fellowship – Sole author of proposal (2018)
+* £269 K Wellcome Trust Supplementary Grant – Written with Prof. von Delft (2017)
+* $35 K AWS Cloud Credits for Research – Sole author of proposal (2017)
+
 [//]: # (Skills)
 
 [//]: # (======)
