@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
 * DPhil in Biomedical Science, University of Oxford, 2015

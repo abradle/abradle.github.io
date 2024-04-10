@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
-
 Drug discovery is burdened by high costs ($2.3Bn per drug), lengthy processes (10-15 years), and a 96% failure rate and urgently needs a radical transformation. 
 
 With thousands of diseases lacking cures and illnesses like malaria still devastating millions, the field must evolve into a more efficient engineering process so it can be automated and scaled.
