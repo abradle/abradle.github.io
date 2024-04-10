@@ -5,7 +5,7 @@ main:
     url: /people/
     
   - title: "What we do?"
-    url: /publications/
+    url: /portfolio/
 
   - title: "Who am I/"
     url: /cv/
