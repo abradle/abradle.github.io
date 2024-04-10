@@ -1,16 +1,11 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
 
   - title: "Who we are?"
     url: /people/
     
   - title: "What we do?"
-    url: /portfolio/
+    url: /publications/
 
-  - title: "CV"
+  - title: "Who am I/"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
