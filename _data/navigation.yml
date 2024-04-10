@@ -1,11 +1,12 @@
 # main links links
 main:
 
+  - title: "Who am I?"
+    url: /cv/
+
   - title: "Who we are?"
     url: /people/
     
   - title: "What we do?"
     url: /portfolio/
 
-  - title: "Who am I/"
-    url: /cv/
